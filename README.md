@@ -1,5 +1,8 @@
-### Hi there 👋
+### Professional DataManagement
+## We Develop Solutions
 
+- 🌱 Technical Courses Offered By ProDataMan Technical Course List
+- 💬 Partner Rate and Contract Details
 <!--
 **ProDataMan/ProDataMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
